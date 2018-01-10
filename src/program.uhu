@@ -1,0 +1,97 @@
+constant int NUMAR_NATURAL_CONSTANT = 1;
+constant double STRING_CONSTANT = 2.0;
+
+double numarReal = 2.75;
+int numarNatural;
+numarNatural = 1;
+
+void planificaSaptamana(double, double, string);
+double planificaSaptamana()
+{
+	// do something
+}
+
+
+@class MainClassEmpty {}
+
+@class MainClassFull {
+	int aVariable;
+
+	int asdnaiusdbasidsbaius = aVariable;
+	int main()
+	{
+		print("Hello World from inside MainClassFull!");
+		print(aVariable);
+	}
+}
+
+double [][][] arr1;
+string [] arr2;
+
+while(true & true)
+{
+	
+	for(;;){}
+	// do something
+	if(false | true)
+	{
+		// go outside
+	}
+	int oAltaVariabila = 0;
+	
+	if(false | true)
+	{
+		// go outside
+	}
+}
+
+int contor = 1;
+
+for(contor = 0;[contor] < [10]; contor = contor + 1)
+{
+	print("Salut din for");
+}
+
+print("aritmetica : ");
+print(numarReal * 100 + numarNatural * (20 + 5) );
+print((numarReal * 100 - 270 ) ^ 2 );
+
+print(true & (false | true));
+print(true | false);
+print(!true & !false);
+print(true & false);
+
+print("Hello " + " string concatenation !");
+
+void planificaSaptamana(int a, double b, string c)
+{
+	// doing something..
+}
+
+planificaSaptamana([numarReal + 1 + 10 * 5 + numarNatural], 2.99, "Salut");
+
+planificaSaptamana(numarReal, planificaSaptamana(), "Salut");
+
+dump(0);
+
+// ERROR CHECKING :
+
+print(notDefinedVariable);
+
+int numarNatural;
+
+int newVariable = 16;
+newVariable = 1 + newVariable2;
+
+double planificaSaptamana();
+
+int newVariable2 = planificaSaptamana2();
+
+planificaSaptamana("", 2.99, "Salut");
+
+double planificaSaptamana()
+{
+	
+}
+
+dump(0);

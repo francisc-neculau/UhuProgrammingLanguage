@@ -1,0 +1,313 @@
+
+
+
+
+int weekScheduler(double a, boolean b, string x)
+{
+	
+}
+double a21 = 2;
+boolean b = true;
+weekScheduler([a21 + 2 + 2*(123)], true, "");
+weekScheduler(a21, [true&false], "");
+
+
+int main3(int a21)
+{
+	
+}
+
+dump(0);
+
+
+
+
+//print("asda" + " vuyvu");
+int weekScheduler(int, int, int);
+
+
+void weekScheduler2();
+
+
+//dump(1);
+
+
+
+int weekScheduler2(int a, int b, int c)
+{
+	
+}
+
+//dump(1);
+
+int weekScheduler3(int a, int b, int c)
+{
+	
+}
+
+dump(1);
+
+double aa = 1;
+
+double a = 0;
+
+int bb = 10 + 2 + a;
+
+int uu = 2+(3 + aa)*2;
+
+//int bb = 10;
+//print(bb + 10);
+//print(uu);
+{}
+
+
+
+//descopera(2+(3 + aa)*2, main(aa), aa);
+
+double aa = 1;
+
+int bb = 10 + 2 + aa;
+
+int uu = 2+(3 + aa)*2;
+
+//int bb = 10;
+print(bb + 10);
+print(uu);
+{}
+
+
+descopera(2, main(aa), aa);
+
+double a = 90;
+
+int b = 10 + a;
+
+//int b = 10;
+print(b + 10);
+{}
+
+for(int a = 10;true & false;)
+{
+	
+}
+
+
+
+									
+print(false);
+
+@class me {
+	int a = 10;
+	int main()
+	{
+		print("inside class");
+	}
+}
+
+me-start(a, c, 100);
+
+@class me {
+	int a = 10;
+	int main()
+	{
+		print("inside class");
+	}
+}
+
+boolean a = true;
+print(768.0 + 2);
+print(768.0 - 2);
+print(768.0 / 2);
+print(768.0 ^ 2 - 4);
+print(768.0 ^ 2 * 0.1 - 0.4);
+
+print("I" + " hate " + "fucking python");
+
+print(768.0 + 2);
+
+
+"asgag" + "asgagwa";
+
+int[] asd;
+
+print(768.0 + 768.0);
+acasa(acasa(),
+1231,
+124.24,
+susu(a,v,123));
+
+final int START = 123;
+int c = 1241.142;
+c = 123.0;
+a = nume();
+double nume();
+{x = 23.0;{x = 23.0;}x = 23.0;x = 23.0;x = 23.0;}
+x = 23.0;
+int c = 1241.142;
+c = 123.0;
+a = nume();
+double nume();
+x = 23.0;
+int numer(int a, int b)
+{
+	//int q;
+}
+
+int numer()
+{
+	//int y;
+	c = 123.0;
+a = nume();
+}
+
+
+int numer(int a)
+{
+	//int z;
+	//{ // FIXME: This is not supported
+	
+	//}
+}
+while(12)
+	{
+	 while(12)
+	{
+	
+	}
+	}
+int main()
+{
+	int counter = 1;
+		while(12)
+	{
+		if(1)
+		{
+			int a = 123;
+		}
+	}
+}
+
+
+double aa = 1;
+
+int bb = 10 + 2 + aa;
+
+int uu = 2+(3 + aa)*2;
+
+//int bb = 10;
+print(bb + 10);
+print(uu);
+{}
+
+
+descopera(2, main(aa), aa);
+
+double a = 90;
+
+int b = 10 + a;
+
+//int b = 10;
+print(b + 10);
+{}
+
+for(int a = 10;true & false;)
+{
+	
+}
+
+
+
+									
+print(false);
+
+@class me {
+	int a = 10;
+	int main()
+	{
+		print("inside class");
+	}
+}
+
+me-start(a, c, 100);
+
+@class me {
+	int a = 10;
+	int main()
+	{
+		print("inside class");
+	}
+}
+
+boolean a = true;
+print(768.0 + 2);
+print(768.0 - 2);
+print(768.0 / 2);
+print(768.0 ^ 2 - 4);
+print(768.0 ^ 2 * 0.1 - 0.4);
+
+print("I" + " hate " + "fucking python");
+
+print(768.0 + 2);
+
+
+"asgag" + "asgagwa";
+
+int[] asd;
+
+print(768.0 + 768.0);
+acasa(acasa(),
+1231,
+124.24,
+susu(a,v,123));
+
+final int START = 123;
+int c = 1241.142;
+c = 123.0;
+a = nume();
+double nume();
+{x = 23.0;{x = 23.0;}x = 23.0;x = 23.0;x = 23.0;}
+x = 23.0;
+int c = 1241.142;
+c = 123.0;
+a = nume();
+double nume();
+x = 23.0;
+int numer(int a, int b)
+{
+	//int q;
+}
+
+int numer()
+{
+	//int y;
+	c = 123.0;
+a = nume();
+}
+
+
+int numer(int a)
+{
+	//int z;
+	//{ // FIXME: This is not supported
+	
+	//}
+}
+while(12)
+	{
+	 while(12)
+	{
+	
+	}
+	}
+int main()
+{
+	int counter = 1;
+		while(12)
+	{
+		if(1)
+		{
+			int a = 123;
+		}
+	}
+}
+
